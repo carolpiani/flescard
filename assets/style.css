@@ -1,5 +1,22 @@
 body{
     background-color: bisque;
+    font-family:Bai Junjuree;
+}
+
+#container{
+display:flex: ;
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 footer{
@@ -7,4 +24,6 @@ footer{
     color:white
    position: fixed;
     bottom: 0;
+    width: 100%;
+    height: 2rem;
 }
